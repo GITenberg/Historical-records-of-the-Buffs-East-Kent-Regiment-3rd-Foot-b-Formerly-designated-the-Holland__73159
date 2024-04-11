@@ -1,0 +1,66 @@
+_repo: Historical-records-of-the-Buffs-East-Kent-Regiment-3rd-Foot-b-Formerly-designated-the-Holland__73159
+_version: 0.0.1
+contributor:
+  artists:
+  - agent_name: Alexander, Herbert
+    birthdate: 1874
+    deathdate: 1946
+    gutenberg_agent_id: '56972'
+    url: http://www.gutenberg.org/2009/agents/56972
+  - agent_name: Butler, Elizabeth (Elizabeth Southerden Thompson)
+    aliases:
+    - Butler, Lady Elizabeth
+    - Thompson, Elizabeth Southerden
+    birthdate: 1846
+    deathdate: 1933
+    gutenberg_agent_id: '40898'
+    url: http://www.gutenberg.org/2009/agents/40898
+    wikipedia: https://en.wikipedia.org/wiki/Elizabeth_Thompson
+  author_of_introduction:
+    agent_name: Paget, Arthur
+    aliases:
+    - Paget, Colonel
+    - Paget, Sir Arthur Henry Fitzroy
+    birthdate: 1851
+    deathdate: 1928
+    gutenberg_agent_id: '56968'
+    url: http://www.gutenberg.org/2009/agents/56968
+    wikipedia: https://en.wikipedia.org/wiki/Arthur_Paget_(British_Army_officer)
+creator:
+  author:
+    agent_name: Moody, R. S. H. (Richard Stanley Hawks)
+    alias: Moody, Richard Stanley Hawks
+    birthdate: 1854
+    deathdate: 1930
+    gutenberg_agent_id: '56965'
+    url: http://www.gutenberg.org/2009/agents/56965
+    wikipedia: https://en.wikipedia.org/wiki/Richard_Stanley_Hawks_Moody
+description: ''
+gutenberg_issued: '2024-03-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73159'
+  lccn: '44051670'
+language: en
+pgterms:marc905: 20190113032627moody
+pgterms:marc906: '1922'
+pgterms:marc907: GB
+production_note: Brian Coe, Karin Spence and the Online Distributed Proofreading Team
+  at https://www.pgdp.net
+publication_note: '  $aLondon :$bThe Medici Society Ltd, $c1922.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1914-1918 -- Regimental histories -- Great Britain'
+- !lcsh 'Great Britain. Army. Regiment of Foot, 3rd (East Kent)'
+- !lcc 'D501'
+- GITenberg
+tableOfContents: 'The First Battalion goes to war -- The Second Battalion takes its
+  share -- The preparation and the start of more battalions -- The Western Front:
+  Loos -- The Turkish enemy -- The Somme -- A year at Salonica -- With Maude in Mesopotamia
+  -- Palestine -- The Western Front -- The Queen''s Own Rifles of Canada -- The end
+  of the Salonica and Mesopotamia campaigns -- Holding on -- The grand result -- Conclusion.'
+title: 'Historical records of the Buffs, East Kent Regiment (3rd Foot) : $b Formerly
+  designated the Holland Regiment and Prince George of Denmark''s Regiment'
+url: http://www.gutenberg.org/ebooks/73159
