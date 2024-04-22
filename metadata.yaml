@@ -26,6 +26,9 @@ contributor:
     gutenberg_agent_id: '56968'
     url: http://www.gutenberg.org/2009/agents/56968
     wikipedia: https://en.wikipedia.org/wiki/Arthur_Paget_(British_Army_officer)
+covers:
+- cover_type: archival
+  image_path: 73159-h/images/cover.jpg
 creator:
   author:
     agent_name: Moody, R. S. H. (Richard Stanley Hawks)
@@ -36,6 +39,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/56965
     wikipedia: https://en.wikipedia.org/wiki/Richard_Stanley_Hawks_Moody
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73159#Historical-records-of-the-Buffs-East-Kent-Regiment-3rd-Foot-b-Formerly-designated-the-Holland_
 gutenberg_issued: '2024-03-13'
 gutenberg_type: Text
 identifiers:
